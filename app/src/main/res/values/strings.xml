@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InterviewGmailApp</string>
+    <string name="auth_label">Authorization</string>
+    <string name="btn_login">Sing In</string>
+</resources>
